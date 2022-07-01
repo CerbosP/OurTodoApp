@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To-Do List++</string>
+    <string name="btn_add_text">Add</string>
+    <string name="btn_rem_text">Remove</string>
+    <string name="btn_srch_text">Search</string>
+
+</resources>
